@@ -1,0 +1,14 @@
+header {
+    display: flex;  
+    gap: 30px;
+    background-color: rgb(142, 142, 142);
+    color: white ;
+    font-style: italic;
+}
+a{
+    color: inherit;
+}
+
+body{
+    font-style: serif  ;
+}
