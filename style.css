@@ -13,3 +13,8 @@ body{
     font-style: serif  ;
     backround-color: #e3e3e3;
 }
+
+main{
+
+    background-color: red;
+}
